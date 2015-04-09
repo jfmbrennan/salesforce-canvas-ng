@@ -1,0 +1,9 @@
+{
+  "generator-ngbp-module": {
+    "name": "salesforce-canvas-ng",
+    "banner": "",
+    "modules": [
+      "home"
+    ]
+  }
+}
